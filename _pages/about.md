@@ -8,7 +8,7 @@ redirect\_from:
 - /about.html
 
 ---
-I am **Pengyu Chen**, a Ph.D. student in **Ophthalmology and Visual Sciences** at **The Chinese University of Hong Kong (CUHK)**. My research focuses on **medical image analysis, multimodal, and AI for Healthcare**, with particular interests in **3D medical imaging, deep learning-based segmentation, registration, and AI assistanted clinical decision making**.
+I am **Pengyu Chen**, a Ph.D. student in **Ophthalmology and Visual Sciences** at **The Chinese University of Hong Kong (CUHK)**. My research focuses on **medical image analysis, multimodal, and AI for Healthcare**, with particular interests in **3D medical imaging, deep learning-based segmentation, registration, and AI assisted clinical decision making**.
 
 My academic background bridges **computer science, medical and engineering knowledge**, with training in both theoretical modeling and real-world clinical applications. I have research experience in **ophthalmology, radiology, bioengineering, intelligent medical systems and mechanical design**, and I actively work on translating AI methods into clinically meaningful tools.
 
