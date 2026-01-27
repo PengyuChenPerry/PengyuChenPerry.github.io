@@ -83,6 +83,6 @@ My academic background bridges **computer science, medical and engineering knowl
 
 📧 **Email:** [pechen@link.cuhk.edu.hk](mailto\:pechen@link.cuhk.edu.hk)\
 📍 **Location:** Hong Kong SAR\
-🐙 **GitHub:** [https://github.com/yourusername](https://github.com/PengyuChenPerry)\
+🐙 **GitHub:** [https://github.com/PengyuChenPerry](https://github.com/PengyuChenPerry)\
 📄 **CV:** /files/Pengyu\_Chen\_CV.pdf
 
