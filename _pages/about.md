@@ -9,7 +9,7 @@ redirect\_from:
 - /about.html
 
 ---
-I am **Pengyu Chen**, a Ph.D. student in **Ophthalmology and Visual Sciences** at **The Chinese University of Hong Kong (CUHK)**, supervised by [Prof. Jason CS Yam](https://scholar.google.com/citations?hl=en&user=wWzx_k0AAAAJ&view_op=list_works) and [Prof. Guy LJ Chen](https://scholar.google.com/citations?hl=zh-TW&user=rK5O4GEAAAAJ&view_op=list_works). I also hold a Master of Science degree in Computer Science from the University of Pittsburgh, where I worked with [Prof. Jiantao Pu](https://sites.pitt.edu/~jip13/). My research focuses on **AI for Healthcare**.
+I am **Pengyu Chen**, a Ph.D. student in **Ophthalmology and Visual Sciences** at **The Chinese University of Hong Kong (CUHK)**, supervised by [Prof. Jason CS Yam](https://scholar.google.com/citations?hl=en&user=wWzx_k0AAAAJ&view_op=list_works) and [Prof. Guy LJ Chen](https://scholar.google.com/citations?hl=zh-TW&user=rK5O4GEAAAAJ&view_op=list_works). I also hold a Master of Science degree in Computer Science from the **University of Pittsburgh**, where I worked with [Prof. Jiantao Pu](https://sites.pitt.edu/~jip13/). My research focuses on **AI for Healthcare**.
 
 My academic background bridges **computer science, medical and engineering knowledge**, with training in both theoretical modeling and real-world clinical applications. I have research experience in **ophthalmology, radiology, bioengineering, intelligent medical systems and mechanical design**, and I actively work on translating AI methods into clinically meaningful tools.
 
@@ -86,4 +86,4 @@ My academic background bridges **computer science, medical and engineering knowl
 
 📧 **Email:** [pechen@link.cuhk.edu.hk](mailto\:pechen@link.cuhk.edu.hk)\
 📍 **Location:** Hong Kong SAR\
-🐙 **GitHub:** [https://github.com/PengyuChenPerry](https://github.com/PengyuChenPerry)\
+🐙 **GitHub:** [https://github.com/PengyuChenPerry](https://github.com/PengyuChenPerry)
