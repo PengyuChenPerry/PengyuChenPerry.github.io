@@ -20,6 +20,7 @@ My academic background bridges **computer science, medical and engineering knowl
 - Deep Learning & Multimodal Learning
 - AI-assisted Diagnosis Systems
 - Clinical Decision Support Systems
+  
 ---
 
 ## Education
@@ -32,6 +33,7 @@ My academic background bridges **computer science, medical and engineering knowl
 - **B.Eng. in Mechanical Design, Production and Automation** \
   Southwest University, China\
   *Sep. 2018 – Jun. 2022*
+  
 ---
 
 ## Research & Work Experience
@@ -46,6 +48,7 @@ My academic background bridges **computer science, medical and engineering knowl
 - **Teaching Assistant**\
   School of Health and Rehabilitation Sciences, University of Pittsburgh\
   *Nov. 2023 – Jun. 2024*
+  
 ---
 
 ## Publications & Patents
@@ -63,6 +66,7 @@ My academic background bridges **computer science, medical and engineering knowl
 **Patent**
 - **Chen, P.**, et al. *A Sichuan Pepper Harvesting Device for Protecting Fruits.*\
   **Chinese Invention Patent:** CN114303632B
+  
 ---
 
 ## Honors & Awards
@@ -73,12 +77,14 @@ My academic background bridges **computer science, medical and engineering knowl
 - National Second Prize, Zoomlion International Innovation Competition for Intelligent Agricultural Equipment
 - Third Prize, The Chinese Mathematics Competitions
 - Honorable Mention, Interdisciplinary Contest in Modeling
+
 ---
 
 ## Skills
 - **Programming:** Python, C++, MATLAB, Assembly Language
 - **Research Areas:** Medical AI, Deep Learning, Multimodal Learning
 - **Language:** Professional English
+
 ---
 
 📧 **Email:** [pechen@link.cuhk.edu.hk](mailto\:pechen@link.cuhk.edu.hk)\
