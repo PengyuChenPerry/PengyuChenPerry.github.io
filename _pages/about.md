@@ -26,10 +26,10 @@ My academic background bridges **computer science, medical and engineering knowl
 ## Education
 - **Ph.D. in Ophthalmology and Visual Sciences**\
   The Chinese University of Hong Kong (CUHK), Hong Kong SAR\
-  *Aug. 2025 – Present*
+  *Aug. 2025 – Present*\
 - **M.S. in Computer Science** \
   University of Pittsburgh, USA\
-  *Aug. 2023 – Jul. 2025*
+  *Aug. 2023 – Jul. 2025*\
 - **B.Eng. in Mechanical Design, Production and Automation** \
   Southwest University, China\
   *Sep. 2018 – Jun. 2022*
@@ -39,12 +39,10 @@ My academic background bridges **computer science, medical and engineering knowl
 ## Research & Work Experience
 - **Ph.D. Student**\
   Department of Ophthalmology and Visual Sciences, CUHK\
-  *Aug. 2025 – Present*
-  
+  *Aug. 2025 – Present*\
 - **Research Assistant**\
   Department of Radiology and Bioengineering, University of Pittsburgh Medical Center\
-  *Nov. 2023 – Sep. 2024*
-  
+  *Nov. 2023 – Sep. 2024*\
 - **Teaching Assistant**\
   School of Health and Rehabilitation Sciences, University of Pittsburgh\
   *Nov. 2023 – Jun. 2024*
@@ -90,5 +88,3 @@ My academic background bridges **computer science, medical and engineering knowl
 📧 **Email:** [pechen@link.cuhk.edu.hk](mailto\:pechen@link.cuhk.edu.hk)\
 📍 **Location:** Hong Kong SAR\
 🐙 **GitHub:** [https://github.com/PengyuChenPerry](https://github.com/PengyuChenPerry)\
-📄 **CV:** /files/Pengyu\_Chen\_CV.pdf
-
