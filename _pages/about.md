@@ -51,7 +51,7 @@ My academic background bridges **computer science, medical and engineering knowl
 
 ## Publications & Patents
 **Journal & Conference Papers**
-- **Chen, P.**, et al. *Cross-Scan Fusion Network: A registration-based framework for annotation-efficient 3D ultrasound segmentation in low back pain assessment.* **Medical Physics.**
+- **Chen, P.**, et al. [*Cross-scan fusion network: A registration-based framework for annotation-efficient 3D ultrasound segmentation in low back pain assessment.*](https://doi.org/10.1002/mp.70304) **Medical Physics.**
 
 - **Chen, P.**, et al. [*Heat Residual U-Net: Segmenting anatomical tissue layers depicted on 3-D ultrasound images for chronic low back pain (cLBP).*](https://doi.org/10.1117/12.3047347) **Proc. SPIE Medical Imaging 2025: Image Processing.**
 
